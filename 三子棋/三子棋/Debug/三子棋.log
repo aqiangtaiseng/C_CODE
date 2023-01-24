@@ -1,0 +1,4 @@
+﻿  game.c
+D:\vc练习\三子棋\三子棋\三子棋\game.c(77): warning C4101: “num”: 未引用的局部变量
+D:\vc练习\三子棋\三子棋\三子棋\game.c(126): warning C4715: “judge”: 不是所有的控件路径都返回值
+  三子棋.vcxproj -> D:\vc练习\三子棋\三子棋\Debug\三子棋.exe

@@ -1,0 +1,5 @@
+﻿  game.c
+  sanziqi.c
+  正在生成代码...
+D:\vc练习\三子棋\三子棋\三子棋\game.c(120): warning C4715: “judge”: 不是所有的控件路径都返回值
+  三子棋.vcxproj -> D:\vc练习\三子棋\三子棋\x64\Debug\三子棋.exe
