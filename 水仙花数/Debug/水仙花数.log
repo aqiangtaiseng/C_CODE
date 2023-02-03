@@ -1,0 +1,3 @@
+﻿  daffodil.c
+D:\vc练习\水仙花数\水仙花数\daffodil.c(29): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  水仙花数.vcxproj -> D:\vc练习\水仙花数\Debug\水仙花数.exe
